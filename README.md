@@ -1,6 +1,11 @@
-# portal-hardware
+# portal-hardware -TheThing fork
+**TheThing fork goals**:
 
-Kicad project containing the Portal board design.
+   - add USB-C
+   - add easy to drop in OLED Yellow and Blue Screen
+     
+     
 
-<img src="https://github.com/TwentyTwoHW/portal-hardware/blob/master/SVG/front.svg" style="width: 100%;" >
-<img src="https://github.com/TwentyTwoHW/portal-hardware/blob/master/SVG/back.svg" style="width: 100%;" >
+
+<img src="https://github.com/BeeEvolved/TheThing/blob/master/Graphics/1%20(2).jpg" style="width: 60%;" >
+<img src="https://github.com/BeeEvolved/TheThing/blob/master/Graphics/1%20(1).jpg" style="width: 60%;" >
